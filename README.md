@@ -22,6 +22,8 @@ Read the full documentation at: [https://idealo.github.io/image-super-resolution
 
 ISR is compatible with Python 3.6 and is distributed under the Apache 2.0 license. We welcome any kind of contribution. If you wish to contribute, please see the [Contribute](#contribute) section.
 
+Other web explain: [Zoom in... enhance: a Deep Learning based magnifying glass - part 2](https://medium.com/idealo-tech-blog/zoom-in-enhance-a-deep-learning-based-magnifying-glass-part-2-c021f98ebede)
+
 ## Contents
 - [Pre-trained networks](#pre-trained-networks)
 - [Installation](#installation)
